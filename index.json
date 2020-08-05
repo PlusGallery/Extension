@@ -1,12 +1,10 @@
 [
   {
-      "name":"e621 Extension",
+      "label":"e621",
       "icon":"/resource/e621.png",
       "packageName":"com.plusgallery.extension.e621",
-      "versionCode":2,
-      "versionName":"2.0.0",
-      "appMinVersion":1,
-      "appMaxVersion":2,
+      "versionCode":1,
+      "versionName":"1.0.0",
       "filePath":"/release/e621.apk"
   }
 ]
